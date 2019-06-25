@@ -1,6 +1,6 @@
 # libspeex pkg-config source file
 
-prefix=/home/parallels/go/src/github.com/winlinvip/go-speex/speex-lib/objs
+prefix=/home/chinatcp/speex-lib/objs
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
